@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+![logo](logo.jpg)
+##我是谁？
 
-You can use the [editor on GitHub](https://github.com/digtalART/digtalART.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+一个永远走在对知识渴求路上的世界探索者
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##研究方向
 
-### Markdown
+* 自然语言处理
+    *  语言学
+    *  神经认知学
+* 机器学习
+* 知识工程
+* 深度学习
+* 数据挖掘
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##技能
+PS,PR,AE,MAYA,UNITY,JAVA,PYTHON,NLP,DM
 
-```markdown
-Syntax highlighted code block
+* 邮件(1464605518@qq.com)
+* QQ：1464605518
+* weibo: [@digtalART](http://weibo.com/digitalART)
 
-# Header 1
-## Header 2
-### Header 3
+##爱好
+`绘画`
 
-- Bulleted
-- List
+##资源链接
 
-1. Numbered
-2. List
+* [mou](http://mouapp.com/) 
 
-**Bold** and _Italic_ and `Code` text
+##
 
-[Link](url) and ![Image](src)
+```javascript
+var test=1024;
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digtalART/digtalART.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
