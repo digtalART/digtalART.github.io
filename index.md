@@ -20,7 +20,7 @@ PS,PR,AE,MAYA,UNITY,JAVA,PYTHON,NLP,DM
 
 * 邮件(1464605518@qq.com)
 * QQ：1464605518
-* weibo: [@digtalART](http://weibo.com/digitalART)
+* weibo: [@digitalART](https://weibo.com/u/3951107362)
 
 ## 爱好
 
